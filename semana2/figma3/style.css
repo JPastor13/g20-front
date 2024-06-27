@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+ 
+
+.contenedor-skills{
+    display: flex;
+    justify-content: space-between;
+}
+.principal{
+    width: 960px;
+    height: 525px;
+    background-image: url("./img/MaskGroup.jpg");
+    background-size: cover;
+    margin: auto;
+}
+.sobremi{
+    width: 960px;
+    height: 424px;
+    top: 525px;
+    background-color: #7299FE;
+    margin: auto;
+}
+.miskills{
+    width: 960px;
+    height: 424px;
+    top: 949px;
+    background-color: #9022FF;
+    margin: auto;
+}
+.portafolio{
+    width: 960px;
+    height: 424px;
+    top:1373px;
+    background-color: #FFD233;
+    margin: auto;
+}
+.clientes{
+    width: 960px;
+    height: 258px;
+    top: 1797px;
+    left: -1px;
+    background-color: #3F4E62;
+    margin: auto;
+}
+.contactos{
+    width: 960px;
+    height: 578px;
+    top: 2054px;
+    background-color: #1687A0;
+    margin: auto;
+}

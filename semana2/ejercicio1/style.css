@@ -1,0 +1,47 @@
+.seccion1{
+    border: solid black 5px;
+    border-radius: 50px;
+    width: 1200px;
+    height: 500px;
+    text-align: center;
+    color:white;
+    background-color: blue;
+    padding: 20px;
+    margin: auto;
+}
+.seccion2{
+    border: solid red 5px;
+    border-radius: 50px;
+    width: 1200px;
+    height: 300px;
+    text-align: center;
+    color:black;
+    background-color: yellow;
+    padding: 20px;
+    margin: auto;
+}
+.seccion3{
+    border: solid green 5px;
+    border-radius: 50px;
+    width: 1200px;
+    height: 200px;
+    text-align: center;
+    color:red;
+    background-color:blueviolet;
+    padding: 20px;
+    margin: auto;
+}
+.seccion4{
+    border: solid black;
+    border-radius: 50px;
+    width: 1200px;
+    height: 100px;
+    text-align: center;
+    color:blue;
+    background-color: red;
+    padding: 20px;
+    margin: auto;
+}
+
+/*ejercicios*/
+/*Crear 4 sessiones - widht 1200px height 500p 300px 100px*/

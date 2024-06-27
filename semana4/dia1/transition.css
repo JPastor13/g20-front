@@ -1,0 +1,28 @@
+/*
+.box{
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+    transition: 0.5s;
+}
+
+.box:hover{
+    background-color: red;
+    width: 350px;
+    height: 100px;
+}
+
+*/
+.box{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    transition: width 1s, height 1s,backgroung-color 1s, transform 1s;
+}
+.box:hover{
+    width: 150px;
+    height: 150px;
+    background-color: pink;
+    transform: rotate(180deg);
+
+}

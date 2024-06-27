@@ -1,0 +1,19 @@
+/* Inter */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
+
+/* Lexend Deca */
+@import url('https://fonts.googleapis.com/css2?family=Lexend+Deca:wght@100..900&display=swap');
+
+:root {
+    --very-dark-blue: hsl(233, 47%, 7%);
+    --dark-desaturated-blue: hsl(244, 65%, 67%);
+    --soft-violet: hsl(277, 64%, 61%);
+
+    --white: hsl(0, 0%, 100%);
+    --transparent-white-paragraph: hsla(0, 0%, 100%, 0.75);
+    --transparent-white-heading: hsla(0, 0%, 100%, 0.6);
+}
+
+body {
+    background-color: var(--dark-desaturated-blue);
+} 
